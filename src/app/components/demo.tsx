@@ -1,4 +1,5 @@
-import {demo} from './demo.css'
+import { demo } from "./demo.css";
+
 export const Demo = () => {
-    return <div className={demo}>Demo</div>
-}
+  return <div className={demo}>Demo</div>;
+};
